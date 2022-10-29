@@ -1,5 +1,7 @@
 # v2ray
 ## v2ray server installation
+run files!
+install web interface from here: https://github.com/tshipenchko/x-ui-en
 
 v2ray server with wep interface...
 Enjoy!
